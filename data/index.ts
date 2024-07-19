@@ -49,8 +49,8 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Expected Computer Science Graduate in Dec, 2024",
-      description: "The Inside Scoop",
+      title: "Looking for Associate/Junior Software Engineer roles",
+      description: "Upcoming Fall 2024 Graduate",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
       titleClassName: "justify-center md:justify-start lg:justify-center",
@@ -114,8 +114,8 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "Freelance App Dev Project",
-      desc: "Led devlopement of a SaaS Admin Dashboard and E-Commerce Website for a client.",
+      title: "Freelance Software Engineer",
+      desc: "Led developement of SaaS Admin Dashboard and E-Commerce Website.",
       className: "md:col-span-2",
       thumbnail: "/exp3.svg",
     },
@@ -125,13 +125,11 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      link: "https://github.com/MaiEdward"
     },
     {
       id: 2,
-      img: "/twit.svg",
-    },
-    {
-      id: 3,
       img: "/link.svg",
+      link:"https://www.linkedin.com/in/edward-mai-7b548b268/"
     },
   ];

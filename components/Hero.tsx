@@ -35,7 +35,7 @@ const Hero = () => {
                     words='Hi, I&apos;m Edward'
                 />
                 <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
-                    Computer Science Student graduating December, 2024.
+                    Computer Science Student Graduating December, 2024.
                 </p>
                 <a href='#about'>
                     <MagicButton 
